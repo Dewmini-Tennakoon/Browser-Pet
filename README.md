@@ -3,7 +3,7 @@
 A browser extension that adds a gentle animated character to your screen. Built as a personal project to learn JavaScript, animation timing, and browser extension development.
 
 ## screenshots and video
-!['video'](petvideo.mp4)
+!['video'](petvideo.gif)
 !['1'](pet-idle-front.png)
 !['2'](pet.png)
 
